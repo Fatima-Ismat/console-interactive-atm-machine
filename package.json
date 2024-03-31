@@ -1,0 +1,20 @@
+{"name": "an2-atm-machine",
+  "version": "1.0.2",
+  "description": "",
+  "main": "atm.js",
+  "type": "module",
+  "types": "inquirer",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "devDependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
